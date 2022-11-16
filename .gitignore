@@ -13,10 +13,10 @@ libs/
 # Eclipse IDE for ModusToolbox files
 .metadata/
 # .cyignore
-# .settings/
-# .cproject
-# .project
-# .mtbLaunchConfigs/
+.settings/
+.cproject
+.project
+.mtbLaunchConfigs/
 
 # ModusToolbox Configurator generated code
 GeneratedSource/
